@@ -1,0 +1,16 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 0,
+            "Height": 112,
+            "Name": "#BG",
+            "Position": [ 104, 68 ],
+            "ResourcePath": "themes/tpl/images/alarmset/bg/04.bmp",
+            "Type": "Rectangle",
+            "Width": 104
+        }
+    ],
+    "LayoutName": "themes/tpl/alarmset/bg/04",
+    "ToolVersion": 700
+}

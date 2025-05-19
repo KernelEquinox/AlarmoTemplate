@@ -1,0 +1,76 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ 0, 8, 1, 8 ],
+            "Depth": 0,
+            "Height": 45,
+            "Name": "dow_mon",
+            "Position": [ 51, 190 ],
+            "ResourcePath": "themes/tpl/images/clock/day_of_week/it/dow_mon.bmp",
+            "Type": "Group",
+            "Width": 22
+        },
+        {
+            "Crop": [ 0, 8, 0, 8 ],
+            "Depth": 1,
+            "Height": 54,
+            "Name": "dow_tue",
+            "Position": [ 128, 190 ],
+            "ResourcePath": "themes/tpl/images/clock/day_of_week/it/dow_tue.bmp",
+            "Type": "Group",
+            "Width": 22
+        },
+        {
+            "Crop": [ 0, 8, 0, 8 ],
+            "Depth": 2,
+            "Height": 53,
+            "Name": "dow_wed",
+            "Position": [ 214, 190 ],
+            "ResourcePath": "themes/tpl/images/clock/day_of_week/it/dow_wed.bmp",
+            "Type": "Group",
+            "Width": 22
+        },
+        {
+            "Crop": [ 0, 8, 0, 8 ],
+            "Depth": 3,
+            "Height": 49,
+            "Name": "dow_thu",
+            "Position": [ 298, 190 ],
+            "ResourcePath": "themes/tpl/images/clock/day_of_week/it/dow_thu.bmp",
+            "Type": "Group",
+            "Width": 22
+        },
+        {
+            "Crop": [ 0, 8, 0, 8 ],
+            "Depth": 4,
+            "Height": 53,
+            "Name": "dow_fri",
+            "Position": [ 379, 190 ],
+            "ResourcePath": "themes/tpl/images/clock/day_of_week/it/dow_fri.bmp",
+            "Type": "Group",
+            "Width": 22
+        },
+        {
+            "Crop": [ 0, 8, 0, 8 ],
+            "Depth": 5,
+            "Height": 51,
+            "Name": "dow_sat",
+            "Position": [ 464, 190 ],
+            "ResourcePath": "themes/tpl/images/clock/day_of_week/it/dow_sat.bmp",
+            "Type": "Group",
+            "Width": 22
+        },
+        {
+            "Crop": [ 0, 8, 0, 8 ],
+            "Depth": 6,
+            "Height": 59,
+            "Name": "dow_sun",
+            "Position": [ 547, 190 ],
+            "ResourcePath": "themes/tpl/images/clock/day_of_week/it/dow_sun.bmp",
+            "Type": "Group",
+            "Width": 22
+        }
+    ],
+    "LayoutName": "themes/tpl/clock/dow_source/it",
+    "ToolVersion": 700
+}

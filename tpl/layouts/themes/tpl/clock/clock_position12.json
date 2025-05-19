@@ -1,0 +1,246 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 0,
+            "Height": 44,
+            "Name": "TimeColon",
+            "Position": [ 138, 110 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/TimeColon.bmp",
+            "Type": "Group",
+            "Width": 77
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 1,
+            "Height": 34,
+            "Name": "TimeAmpm",
+            "Position": [ 253, 79 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/TimeAmpm.bmp",
+            "Type": "Group",
+            "Width": 25
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 2,
+            "Height": 44,
+            "Name": "TimeHourTen",
+            "Position": [ 33, 110 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/TimeHourTen.bmp",
+            "Type": "Group",
+            "Width": 77
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 3,
+            "Height": 44,
+            "Name": "TimeHourOne",
+            "Position": [ 86, 110 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/TimeHourOne.bmp",
+            "Type": "Group",
+            "Width": 77
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 4,
+            "Height": 44,
+            "Name": "TimeMinuteTen",
+            "Position": [ 190, 110 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/TimeMinuteTen.bmp",
+            "Type": "Group",
+            "Width": 77
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 5,
+            "Height": 44,
+            "Name": "TimeMinuteOne",
+            "Position": [ 243, 110 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/TimeMinuteOne.bmp",
+            "Type": "Group",
+            "Width": 77
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 6,
+            "Height": 14,
+            "Name": "DateMonthTen",
+            "Position": [ 82, 216 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/DateMonthTen.bmp",
+            "Type": "Group",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 7,
+            "Height": 14,
+            "Name": "DateMonthOne",
+            "Position": [ 101, 216 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/DateMonthOne.bmp",
+            "Type": "Group",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 8,
+            "Height": 15,
+            "Name": "DateSlash",
+            "Position": [ 119, 215 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/DateSlash.bmp",
+            "Type": "Group",
+            "Width": 25
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 9,
+            "Height": 14,
+            "Name": "DateDayTen",
+            "Position": [ 137, 216 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/DateDayTen.bmp",
+            "Type": "Group",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 10,
+            "Height": 14,
+            "Name": "DateDayOne",
+            "Position": [ 156, 216 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/DateDayOne.bmp",
+            "Type": "Group",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 11,
+            "Height": 188,
+            "Name": "AlarmBg",
+            "Position": [ 65, 0 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/AlarmBg.bmp",
+            "Type": "Rectangle",
+            "Width": 35
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 12,
+            "Height": 260,
+            "Name": "fg_default",
+            "Position": [ 30, 204 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/fg_default.bmp",
+            "Type": "Path",
+            "Width": 5
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 13,
+            "Height": 107,
+            "Name": "AlarmOff",
+            "Position": [ 106, 0 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/AlarmOff.bmp",
+            "Type": "Group",
+            "Width": 31
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 14,
+            "Height": 26,
+            "Name": "AlarmOn",
+            "Position": [ 84, 0 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/AlarmOn.bmp",
+            "Type": "Group",
+            "Width": 31
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 15,
+            "Height": 5,
+            "Name": "DatePeriod",
+            "Position": [ 123, 215 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/DatePeriod.bmp",
+            "Type": "Group",
+            "Width": 4
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 16,
+            "Height": 9,
+            "Name": "DateHyphen",
+            "Position": [ 121, 226 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/DateHyphen.bmp",
+            "Type": "Group",
+            "Width": 4
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 17,
+            "Height": 19,
+            "Name": "AlarmHourTen",
+            "Position": [ 117, 3 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/AlarmHourTen.bmp",
+            "Type": "SymbolInstance",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 18,
+            "Height": 19,
+            "Name": "AlarmHourOne",
+            "Position": [ 133, 3 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/AlarmHourOne.bmp",
+            "Type": "SymbolInstance",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 19,
+            "Height": 9,
+            "Name": "AlarmColon",
+            "Position": [ 151, 5 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/AlarmColon.bmp",
+            "Type": "SymbolInstance",
+            "Width": 18
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 20,
+            "Height": 19,
+            "Name": "AlarmMinuteTen",
+            "Position": [ 159, 3 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/AlarmMinuteTen.bmp",
+            "Type": "SymbolInstance",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 21,
+            "Height": 19,
+            "Name": "AlarmMinuteOne",
+            "Position": [ 175, 3 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/AlarmMinuteOne.bmp",
+            "Type": "SymbolInstance",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 22,
+            "Height": 39,
+            "Name": "AlarmAmpm",
+            "Position": [ 195, 5 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/AlarmAmpm.bmp",
+            "Type": "Group",
+            "Width": 20
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 23,
+            "Height": 61,
+            "Name": "DayOfWeek",
+            "Position": [ 184, 216 ],
+            "ResourcePath": "themes/tpl/images/clock/position12/DayOfWeek.bmp",
+            "Type": "Group",
+            "Width": 23
+        }
+    ],
+    "LayoutName": "themes/tpl/clock/clock_position12",
+    "ToolVersion": 700
+}

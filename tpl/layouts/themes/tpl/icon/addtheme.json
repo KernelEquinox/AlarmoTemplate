@@ -1,0 +1,16 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 0,
+            "Height": 100,
+            "Name": "Icon",
+            "Position": [ 110, 70 ],
+            "ResourcePath": "themes/tpl/images/icon/AddTheme.bmp",
+            "Type": "Group",
+            "Width": 100
+        }
+    ],
+    "LayoutName": "themes/tpl/icon/addtheme",
+    "ToolVersion": 700
+}

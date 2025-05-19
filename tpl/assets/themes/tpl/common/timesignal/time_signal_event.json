@@ -1,0 +1,148 @@
+{
+    "EmitSound": [
+        {
+            "Name": "TimeSignal_Intro",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "TimeSignal_Intro" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 2 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.75 }
+            ]
+        },
+        {
+            "Name": "TimeSignal_Count",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "TimeSignal_NormalOne" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.85 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true }
+            ]
+        },
+        {
+            "Name": "TimeSignal_Finish",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "Finish", "Outro" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "String", "Name": "Container", "Value": "Blend" }
+            ]
+        },
+        {
+            "Name": "Finish",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "TimeSignal_NormalLast" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.85 }
+            ]
+        },
+        // {
+        //     "Name": "TimeSignal_Outro",
+        //     "Properties": [
+        //         { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "TimeSignal_Dummy_3s" ] },
+        //         { "DataType": "Int", "Name": "Group", "Value": 2 },
+        //         { "DataType": "Float", "Name": "Volume", "Value": 0 },
+        //         { "DataType": "Float", "Name": "DelayTime", "Value": 0.5 }
+        //     ]
+        // },
+        {
+            "Name": "TimeSignal_Finish06_Blend",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "Finish06", "Outro06" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "String", "Name": "Container", "Value": "Blend" }
+            ]
+        },
+        {
+            "Name": "Finish06",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "TimeSignal_6" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.9 }
+            ]
+        },
+        {
+            "Name": "Outro06",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "TimeSignal_Outro" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.5 },
+                { "DataType": "Float", "Name": "DelayTime", "Value": 1.6 }
+            ]
+        },
+        {
+            "Name": "TimeSignal_Finish12_Blend",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "Finish12", "Outro12" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "String", "Name": "Container", "Value": "Blend" }
+            ]
+        },
+        {
+            "Name": "Finish12",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "TimeSignal_12" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 }
+            ]
+        },
+        {
+            "Name": "Outro12",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "TimeSignal_Outro" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.5 },
+                { "DataType": "Float", "Name": "DelayTime", "Value": 4.8 }
+            ]
+        },
+        {
+            "Name": "Outro",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "TimeSignal_Outro" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.65 },
+                { "DataType": "Float", "Name": "DelayTime", "Value": 0.96 }
+            ]
+        }
+    ],
+    "SoundAsset": [
+        {
+            "Name": "TimeSignal_6",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "TimeSignal_6" }
+            ]
+        },
+        {
+            "Name": "TimeSignal_12",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "TimeSignal_12" }
+            ]
+        },
+        {
+            "Name": "TimeSignal_Outro",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "TimeSignal_Outro" }
+            ]
+        },
+        {
+            "Name": "TimeSignal_NormalLast",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "TimeSignal_NormalLast" }
+            ]
+        },
+        {
+            "Name": "TimeSignal_Intro",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "TimeSignal_Intro" }
+            ]
+        },
+        {
+            "Name": "TimeSignal_NormalOne",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "TimeSignal_NormalOne" }
+            ]
+        },
+        {
+            "Name": "TimeSignal_Dummy_3s",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "TimeSignal_Dummy_3s" }
+            ]
+        }
+    ]
+}

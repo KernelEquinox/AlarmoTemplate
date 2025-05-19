@@ -1,0 +1,16 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ 2, 16, 1, 13 ],
+            "Depth": 0,
+            "Height": 63,
+            "Name": "Logo",
+            "Position": [ 124, 4 ],
+            "ResourcePath": "themes/tpl/images/alarmset/logo/nl.bmp",
+            "Type": "Rectangle",
+            "Width": 53
+        }
+    ],
+    "LayoutName": "themes/tpl/alarmset/logo/nl",
+    "ToolVersion": 700
+}

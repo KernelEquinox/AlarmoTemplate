@@ -1,0 +1,16 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ -10, 1, 0, 0 ],
+            "Depth": 0,
+            "Height": 80,
+            "Name": "action_L_00",
+            "Position": [ 0, 0 ],
+            "ResourcePath": "themes/tpl/images/visualize/character/action_l/action_L_00.bmp",
+            "Type": "Rectangle",
+            "Width": 74
+        }
+    ],
+    "LayoutName": "themes/tpl/visualize/character/action_l",
+    "ToolVersion": 700
+}

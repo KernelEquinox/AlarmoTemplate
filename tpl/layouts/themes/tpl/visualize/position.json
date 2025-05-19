@@ -1,0 +1,16 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 0,
+            "Height": 59,
+            "Name": "character",
+            "Position": [ 122, 35 ], // Center the character
+            "ResourcePath": "themes/tpl/images/visualize/character.bmp",
+            "Type": "Rectangle",
+            "Width": 72
+        }
+    ],
+    "LayoutName": "themes/tpl/visualize/position",
+    "ToolVersion": 700
+}

@@ -1,0 +1,76 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ 123, 35, 50, 102],
+            "Depth": 0,
+            "Height": 147,
+            "Name": "finish_00",
+            "Position": [ 0, 0 ],
+            "ResourcePath": "themes/tpl/images/timesignal/character/Finish/finish_00.bmp",
+            "Type": "Rectangle",
+            "Width": 103
+        },
+        {
+            "Crop": [ 123, 35, 110, 118],
+            "Depth": 1,
+            "Height": 87,
+            "Name": "finish_01",
+            "Position": [ 0, 0 ],
+            "ResourcePath": "themes/tpl/images/timesignal/character/Finish/finish_01.bmp",
+            "Type": "Rectangle",
+            "Width": 87
+        },
+        {
+            "Crop": [ 146, 35, 106, 130],
+            "Depth": 2,
+            "Height": 68,
+            "Name": "outro_00",
+            "Position": [ 0, 0 ],
+            "ResourcePath": "themes/tpl/images/timesignal/character/outro/outro_00.bmp",
+            "Type": "Rectangle",
+            "Width": 75
+        },
+        {
+            "Crop": [ 185, 35, 66, 138],
+            "Depth": 3,
+            "Height": 69,
+            "Name": "outro_01",
+            "Position": [ 0, 0 ],
+            "ResourcePath": "themes/tpl/images/timesignal/character/outro/outro_01.bmp",
+            "Type": "Rectangle",
+            "Width": 67
+        },
+        {
+            "Crop": [ 226, 35, 26, 130],
+            "Depth": 4,
+            "Height": 68,
+            "Name": "outro_02",
+            "Position": [ 0, 0 ],
+            "ResourcePath": "themes/tpl/images/timesignal/character/outro/outro_02.bmp",
+            "Type": "Rectangle",
+            "Width": 75
+        },
+        {
+            "Crop": [ 265, 35, 0, 138],
+            "Depth": 5,
+            "Height": 55,
+            "Name": "outro_03",
+            "Position": [ 0, 0 ],
+            "ResourcePath": "themes/tpl/images/timesignal/character/outro/outro_03.bmp",
+            "Type": "Rectangle",
+            "Width": 67
+        },
+        {
+            "Crop": [ 306, 36, 0, 141],
+            "Depth": 6,
+            "Height": 14,
+            "Name": "outro_04",
+            "Position": [ 0, 0 ],
+            "ResourcePath": "themes/tpl/images/timesignal/character/outro/outro_04.bmp",
+            "Type": "Rectangle",
+            "Width": 63
+        }
+    ],
+    "LayoutName": "themes/tpl/timesignal/character/Finish/finish",
+    "ToolVersion": 700
+}

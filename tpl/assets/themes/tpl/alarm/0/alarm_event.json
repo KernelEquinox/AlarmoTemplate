@@ -1,0 +1,242 @@
+{
+    "EmitSound": [
+
+        //
+        // Intro ---------------------------------------------------------------
+        //
+
+        /* No intro */
+        
+
+        //
+        // Main ----------------------------------------------------------------
+        //
+
+        {
+            "Name": "Main_BGM",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "BgmSnoozeCommon" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 3 },
+                { "DataType": "Bool", "Name": "LoopEnabled", "Value": true },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.6 },
+                { "DataType": "Float", "Name": "DelayTime", "Value": 0 }
+            ]
+        },
+        {
+            "Name": "Main",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "Main_BGM" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 2 },
+                { "DataType": "String", "Name": "Container", "Value": "Blend" }
+            ]
+        },
+
+
+        //
+        // Start (Snooze Sounds) -----------------------------------------------
+        //
+
+        /* No Snooze Sounds */
+
+
+        //
+        // Out Of Bed ----------------------------------------------------------
+        //
+
+        {
+            "Name": "SE_Leave",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "LeaveBed" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.9 }
+            ]
+        },
+        {
+            "Name": "SE_OutOfBed",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_Leave" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "String", "Name": "Container", "Value": "Blend" }
+            ]
+        },
+
+
+        //
+        // Finish --------------------------------------------------------------
+        //
+
+        {
+            "Name": "ScaleFinish",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SnoozeStop" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.7 },
+                { "DataType": "Float", "Name": "DelayTime", "Value": 0 }
+            ]
+        },
+        {
+            "Name": "SE_Snooze1_Finish",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "ScaleFinish" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "String", "Name": "Container", "Value": "Blend" }
+            ]
+        },
+
+
+        //
+        // Post-Snooze Actions -------------------------------------------------
+        //
+
+        /* No Actions */
+
+
+        //
+        // Interactions --------------------------------------------------------
+        //
+
+        {
+            "Name": "Scale",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SnoozeInteract" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.35 }
+            ]
+        },
+        {
+            "Name": "SE_Snooze1_Slot1",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "Scale" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Bool", "Name": "DuckingEnabled", "Value": true },
+                { "DataType": "Float", "Name": "DuckingVolume", "Value": 0.3 },
+                { "DataType": "Float", "Name": "DuckingFadeInTime", "Value": 2 },
+                { "DataType": "Float", "Name": "DuckingFadeOutTime", "Value": 0.2 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "String", "Name": "Container", "Value": "Blend" }
+            ]
+        },
+        {
+            "Name": "SE_Snooze1_Slot2",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "Scale" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Bool", "Name": "DuckingEnabled", "Value": true },
+                { "DataType": "Float", "Name": "DuckingVolume", "Value": 0.3 },
+                { "DataType": "Float", "Name": "DuckingFadeInTime", "Value": 2 },
+                { "DataType": "Float", "Name": "DuckingFadeOutTime", "Value": 0.2 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "String", "Name": "Container", "Value": "Blend" }
+            ]
+        },
+        {
+            "Name": "SE_Snooze1_Slot3",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "Scale" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Bool", "Name": "DuckingEnabled", "Value": true },
+                { "DataType": "Float", "Name": "DuckingVolume", "Value": 0.3 },
+                { "DataType": "Float", "Name": "DuckingFadeInTime", "Value": 2 },
+                { "DataType": "Float", "Name": "DuckingFadeOutTime", "Value": 0.2 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "String", "Name": "Container", "Value": "Blend" }
+            ]
+        },
+        {
+            "Name": "SE_Snooze1_Slot4",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "Scale" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Bool", "Name": "DuckingEnabled", "Value": true },
+                { "DataType": "Float", "Name": "DuckingVolume", "Value": 0.3 },
+                { "DataType": "Float", "Name": "DuckingFadeInTime", "Value": 2 },
+                { "DataType": "Float", "Name": "DuckingFadeOutTime", "Value": 0.2 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "String", "Name": "Container", "Value": "Blend" }
+            ]
+        },
+        {
+            "Name": "SE_Snooze1_Slot5",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "Scale" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Bool", "Name": "DuckingEnabled", "Value": true },
+                { "DataType": "Float", "Name": "DuckingVolume", "Value": 0.3 },
+                { "DataType": "Float", "Name": "DuckingFadeInTime", "Value": 2 },
+                { "DataType": "Float", "Name": "DuckingFadeOutTime", "Value": 0.2 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "String", "Name": "Container", "Value": "Blend" }
+            ]
+        },
+        {
+            "Name": "SE_Snooze1_Slot6",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "Scale" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Bool", "Name": "DuckingEnabled", "Value": true },
+                { "DataType": "Float", "Name": "DuckingVolume", "Value": 0.3 },
+                { "DataType": "Float", "Name": "DuckingFadeInTime", "Value": 2 },
+                { "DataType": "Float", "Name": "DuckingFadeOutTime", "Value": 0.2 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "String", "Name": "Container", "Value": "Blend" }
+            ]
+        },
+        {
+            "Name": "SE_Snooze1_Slot7",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "Scale" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Bool", "Name": "DuckingEnabled", "Value": true },
+                { "DataType": "Float", "Name": "DuckingVolume", "Value": 0.3 },
+                { "DataType": "Float", "Name": "DuckingFadeInTime", "Value": 2 },
+                { "DataType": "Float", "Name": "DuckingFadeOutTime", "Value": 0.2 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "String", "Name": "Container", "Value": "Blend" }
+            ]
+        },
+
+
+        //
+        // Reset ---------------------------------------------------------------
+        //
+
+        {
+            "Name": "Snooze_Reset",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "Reset" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.15 }
+            ]
+        },
+        {
+            "Name": "SE_Snooze1_Reset",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "Snooze_Reset" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "String", "Name": "Container", "Value": "Blend" }
+            ]
+        }
+    ],
+    "SoundAsset": [
+        {
+            "Name": "BgmSnoozeCommon",
+            "Properties": [ { "DataType": "String", "Name": "FileName", "Value": "BgmSnoozeCommon" } ]
+        },
+        {
+            "Name": "LeaveBed",
+            "Properties": [ { "DataType": "String", "Name": "FileName", "Value": "LeaveBed" } ]
+        },
+        {
+            "Name": "SnoozeStop",
+            "Properties": [ { "DataType": "String", "Name": "FileName", "Value": "SnoozeStop" } ]
+        },
+        {
+            "Name": "SnoozeInteract",
+            "Properties": [ { "DataType": "String", "Name": "FileName", "Value": "SnoozeInteract" } ]
+        },
+        {
+            "Name": "Reset",
+            "Properties": [ { "DataType": "String", "Name": "FileName", "Value": "Reset" } ]
+        }
+    ]
+}

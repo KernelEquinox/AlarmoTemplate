@@ -1,0 +1,426 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 0,
+            "Height": 44,
+            "Name": "time_0",
+            "Position": [ 49, 135 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/time_0.bmp",
+            "Type": "Group",
+            "Width": 77
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 1,
+            "Height": 44,
+            "Name": "time_1",
+            "Position": [ 139, 137 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/time_1.bmp",
+            "Type": "Group",
+            "Width": 77
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 2,
+            "Height": 44,
+            "Name": "time_2",
+            "Position": [ 221, 138 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/time_2.bmp",
+            "Type": "Group",
+            "Width": 77
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 3,
+            "Height": 44,
+            "Name": "time_3",
+            "Position": [ 305, 137 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/time_3.bmp",
+            "Type": "Group",
+            "Width": 77
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 4,
+            "Height": 44,
+            "Name": "time_4",
+            "Position": [ 388, 138 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/time_4.bmp",
+            "Type": "Group",
+            "Width": 77
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 5,
+            "Height": 44,
+            "Name": "time_5",
+            "Position": [ 476, 135 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/time_5.bmp",
+            "Type": "Group",
+            "Width": 77
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 6,
+            "Height": 44,
+            "Name": "time_6",
+            "Position": [ 559, 134 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/time_6.bmp",
+            "Type": "Group",
+            "Width": 77
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 7,
+            "Height": 44,
+            "Name": "time_7",
+            "Position": [ 645, 137 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/time_7.bmp",
+            "Type": "Group",
+            "Width": 77
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 8,
+            "Height": 44,
+            "Name": "time_8",
+            "Position": [ 730, 134 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/time_8.bmp",
+            "Type": "Group",
+            "Width": 77
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 9,
+            "Height": 44,
+            "Name": "time_9",
+            "Position": [ 815, 135 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/time_9.bmp",
+            "Type": "Group",
+            "Width": 77
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 10,
+            "Height": 44,
+            "Name": "time_colon",
+            "Position": [ 913, 139 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/time_colon.bmp",
+            "Type": "Group",
+            "Width": 77
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 11,
+            "Height": 34,
+            "Name": "time_pm",
+            "Position": [ 1052, 154 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/time_pm.bmp",
+            "Type": "Group",
+            "Width": 25
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 12,
+            "Height": 34,
+            "Name": "time_am",
+            "Position": [ 976, 154 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/time_am.bmp",
+            "Type": "Group",
+            "Width": 25
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 13,
+            "Height": 14,
+            "Name": "date_0",
+            "Position": [ 21, 41 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/date_0.bmp",
+            "Type": "Group",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 14,
+            "Height": 14,
+            "Name": "date_1",
+            "Position": [ 55, 41 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/date_1.bmp",
+            "Type": "Group",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 15,
+            "Height": 14,
+            "Name": "date_2",
+            "Position": [ 82, 41 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/date_2.bmp",
+            "Type": "Group",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 16,
+            "Height": 14,
+            "Name": "date_3",
+            "Position": [ 110, 41 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/date_3.bmp",
+            "Type": "Group",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 17,
+            "Height": 14,
+            "Name": "date_4",
+            "Position": [ 139, 41 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/date_4.bmp",
+            "Type": "Group",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 18,
+            "Height": 14,
+            "Name": "date_5",
+            "Position": [ 170, 41 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/date_5.bmp",
+            "Type": "Group",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 19,
+            "Height": 14,
+            "Name": "date_6",
+            "Position": [ 198, 41 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/date_6.bmp",
+            "Type": "Group",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 20,
+            "Height": 14,
+            "Name": "date_7",
+            "Position": [ 228, 41 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/date_7.bmp",
+            "Type": "Group",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 21,
+            "Height": 14,
+            "Name": "date_8",
+            "Position": [ 256, 41 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/date_8.bmp",
+            "Type": "Group",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 22,
+            "Height": 14,
+            "Name": "date_9",
+            "Position": [ 286, 41 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/date_9.bmp",
+            "Type": "Group",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 23,
+            "Height": 15,
+            "Name": "date_slash",
+            "Position": [ 318, 41 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/date_slash.bmp",
+            "Type": "Group",
+            "Width": 25
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 24,
+            "Height": 5,
+            "Name": "date_dot",
+            "Position": [ 344, 41 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/date_dot.bmp",
+            "Type": "Group",
+            "Width": 4
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 25,
+            "Height": 9,
+            "Name": "date_hyphen",
+            "Position": [ 365, 50 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/date_hyphen.bmp",
+            "Type": "Group",
+            "Width": 4
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 26,
+            "Height": 19,
+            "Name": "alarm_0",
+            "Position": [ 20, 12 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/alarm_0.bmp",
+            "Type": "SymbolInstance",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 27,
+            "Height": 19,
+            "Name": "alarm_1",
+            "Position": [ 59, 12 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/alarm_1.bmp",
+            "Type": "SymbolInstance",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 28,
+            "Height": 19,
+            "Name": "alarm_2",
+            "Position": [ 92, 12 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/alarm_2.bmp",
+            "Type": "SymbolInstance",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 29,
+            "Height": 19,
+            "Name": "alarm_3",
+            "Position": [ 127, 12 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/alarm_3.bmp",
+            "Type": "SymbolInstance",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 30,
+            "Height": 19,
+            "Name": "alarm_4",
+            "Position": [ 162, 12 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/alarm_4.bmp",
+            "Type": "SymbolInstance",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 31,
+            "Height": 19,
+            "Name": "alarm_5",
+            "Position": [ 199, 12 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/alarm_5.bmp",
+            "Type": "SymbolInstance",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 32,
+            "Height": 19,
+            "Name": "alarm_6",
+            "Position": [ 233, 12 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/alarm_6.bmp",
+            "Type": "SymbolInstance",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 33,
+            "Height": 19,
+            "Name": "alarm_7",
+            "Position": [ 269, 12 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/alarm_7.bmp",
+            "Type": "SymbolInstance",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 34,
+            "Height": 19,
+            "Name": "alarm_8",
+            "Position": [ 304, 12 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/alarm_8.bmp",
+            "Type": "SymbolInstance",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 35,
+            "Height": 19,
+            "Name": "alarm_9",
+            "Position": [ 340, 12 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/alarm_9.bmp",
+            "Type": "SymbolInstance",
+            "Width": 24
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 36,
+            "Height": 36,
+            "Name": "alarm_pm",
+            "Position": [ 473, 12 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/alarm_pm.bmp",
+            "Type": "Group",
+            "Width": 20
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 37,
+            "Height": 9,
+            "Name": "alarm_colon",
+            "Position": [ 380, 12 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/alarm_colon.bmp",
+            "Type": "SymbolInstance",
+            "Width": 18
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 38,
+            "Height": 39,
+            "Name": "alarm_am",
+            "Position": [ 411, 13 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/alarm_am.bmp",
+            "Type": "Group",
+            "Width": 20
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 39,
+            "Height": 188,
+            "Name": "alarm_bg",
+            "Position": [ 58, 93 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/alarm_bg.bmp",
+            "Type": "Rectangle",
+            "Width": 35
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 40,
+            "Height": 107,
+            "Name": "alarm_off",
+            "Position": [ 549, 16 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/alarm_off.bmp",
+            "Type": "Group",
+            "Width": 31
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 41,
+            "Height": 26,
+            "Name": "alarm_on",
+            "Position": [ 697, 16 ],
+            "ResourcePath": "themes/tpl/images/clock/source12/alarm_on.bmp",
+            "Type": "Group",
+            "Width": 31
+        }
+    ],
+    "LayoutName": "themes/tpl/clock/clock_source12",
+    "ToolVersion": 700
+}

@@ -1,0 +1,26 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 0,
+            "Height": 320,
+            "Name": "DialogBackground",
+            "Position": [ 0, 27 ],
+            "ResourcePath": "themes/tpl/images/dialog/background_large/DialogBackground.bmp",
+            "Type": "Group",
+            "Width": 213
+        },
+        {
+            "Crop": [ 9, 1, 9, 6 ],
+            "Depth": 1,
+            "Height": 320,
+            "Name": "DialogHeader",
+            "Position": [ 0, 191 ],
+            "ResourcePath": "themes/tpl/images/dialog/background_large/DialogHeader.bmp",
+            "Type": "SymbolInstance",
+            "Width": 49
+        }
+    ],
+    "LayoutName": "themes/tpl/dialog_background_large",
+    "ToolVersion": 700
+}

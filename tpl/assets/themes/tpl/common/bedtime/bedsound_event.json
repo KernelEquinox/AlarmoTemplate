@@ -1,0 +1,55 @@
+{
+    "EmitSound": [
+        {
+            "Name": "Main",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "Lullaby" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 2 },
+                { "DataType": "Bool", "Name": "LoopEnabled", "Value": true },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.5 },
+                { "DataType": "Float", "Name": "DelayTime", "Value": 1.75 },
+                { "DataType": "Float", "Name": "FadeInTime", "Value": 5 },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 1 }
+            ]
+        },
+        {
+            "Name": "BGM",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "Main" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 2 },
+                { "DataType": "String", "Name": "Container", "Value": "Blend" }
+            ]
+        },
+        {
+            "Name": "OnBed",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "BedtimeBeep" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.2 },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 1 }
+            ]
+        },
+        {
+            "Name": "SE_OnBed",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "OnBed" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "String", "Name": "Container", "Value": "Blend" }
+            ]
+        }
+    ],
+    "SoundAsset": [
+        {
+            "Name": "Lullaby",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "Lullaby" }
+            ]
+        },
+        {
+            "Name": "BedtimeBeep",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "BedtimeBeep" }
+            ]
+        }
+    ]
+}

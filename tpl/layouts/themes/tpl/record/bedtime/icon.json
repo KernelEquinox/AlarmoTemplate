@@ -1,0 +1,16 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 0,
+            "Height": 50,
+            "Name": "Icon",
+            "Position": [ 49, 68 ],
+            "ResourcePath": "themes/tpl/images/record/Bedtime.bmp",
+            "Type": "Group",
+            "Width": 50
+        }
+    ],
+    "LayoutName": "themes/tpl/record/bedtime/icon",
+    "ToolVersion": 700
+}

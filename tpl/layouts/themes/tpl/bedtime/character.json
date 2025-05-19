@@ -1,0 +1,26 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 0,
+            "Height": 60,
+            "Name": "sleep_00",
+            "Position": [ 0, 0 ],
+            "ResourcePath": "themes/tpl/images/bedtime/sleep_00.bmp",
+            "Type": "Rectangle",
+            "Width": 66
+        },
+        {
+            "Crop": [ -1, 0, 0, 0 ],
+            "Depth": 1,
+            "Height": 60,
+            "Name": "sleep_01",
+            "Position": [ 0, 0 ],
+            "ResourcePath": "themes/tpl/images/bedtime/sleep_01.bmp",
+            "Type": "Rectangle",
+            "Width": 67
+        }
+    ],
+    "LayoutName": "themes/tpl/bedtime/character",
+    "ToolVersion": 700
+}

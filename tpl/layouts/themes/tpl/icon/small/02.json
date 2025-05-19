@@ -1,0 +1,16 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 0,
+            "Height": 40,
+            "Name": "Icon",
+            "Position": [ 140, 100 ],
+            "ResourcePath": "themes/tpl/images/icon/small/02.bmp",
+            "Type": "Rectangle",
+            "Width": 40
+        }
+    ],
+    "LayoutName": "themes/tpl/icon/small/02",
+    "ToolVersion": 700
+}

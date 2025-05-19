@@ -1,0 +1,392 @@
+{
+    "EmitSound": [
+        {
+            "Name": "SE_Forward",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_Forward_01" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.9 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        },
+        {
+            "Name": "SE_Back",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_Back_00" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.85 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        },
+        {
+            "Name": "SE_Decide",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_Decide_16_04_00" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.96 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        },
+        {
+            "Name": "SE_EnterMenu",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_EnterMenu_09_06_02_01_short" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.75 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        },
+        {
+            "Name": "SE_ReturnToClock",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_ReturnToClock_04" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.9 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        },
+        {
+            "Name": "SE_SelectSlide",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_SelectSlide_01" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.6 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        },
+        {
+            "Name": "SE_Select",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_Select_00" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.5 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        },
+        {
+            "Name": "SE_InvalidSelect",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_InvalidSelect_03" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.56 },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        },
+        {
+            "Name": "SE_InvalidButton",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_InvalidSelect_03" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.56 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        },
+        {
+            "Name": "SE_SettingComplete",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_SettingComplete_08_01_01" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.85 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "DelayTime", "Value": 0.15 },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        },
+        {
+            "Name": "SE_AlarmSettingComplete",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "Nice" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.85 },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 1 }
+            ]
+        },
+        {
+            "Name": "SE_NetworkError",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_NetworkError_03" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 1 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        },
+        {
+            "Name": "SE_NetworkTesting",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_NetworkTesting_01" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Bool", "Name": "LoopEnabled", "Value": true },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.7 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 0.1 }
+            ]
+        },
+        {
+            "Name": "SE_NetworkConnected",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_NetworkConnected_00" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.9 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        },
+        {
+            "Name": "SE_OpenBox",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_OpenBox_01" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        },
+        {
+            "Name": "SE_GetNewAlarm",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_GetNewAlarm_01" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        },
+        {
+            "Name": "SE_OpenNoticeLog",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_OpenNoticeLog_01_03" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        },
+        {
+            "Name": "SE_OpenNotice",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_OpenNotice_01_01" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        },
+        {
+            "Name": "SE_TutorialPeriod",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_TutorialPeriod_01" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.82 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        },
+        {
+            "Name": "SE_TutorialComplete",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_TutorialComplete_02" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "DelayTime", "Value": 0.5 },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        },
+        {
+            "Name": "SE_AlarmTimeOut",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "Aww" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.6 }
+            ]
+        },
+        {
+            "Name": "SE_EnvChkCountStart",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_EnvChkCountStart_00" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        },
+        {
+            "Name": "SE_EnvChkCountSecond",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_EnvChkCountSecond_00" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.85 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        },
+        {
+            "Name": "SE_EnvChkCountLastThree",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_EnvChkCountLastThree_00" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Float", "Name": "Volume", "Value": 0.9 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        },
+        {
+            "Name": "SE_EnvChkStart",
+            "Properties": [
+                { "DataType": "StringArray", "Name": "AssetNames", "Value": [ "SE_EnvChkStart_00" ] },
+                { "DataType": "Int", "Name": "Group", "Value": 1 },
+                { "DataType": "Bool", "Name": "EnableMultiEmission", "Value": true },
+                { "DataType": "Float", "Name": "FadeOutTime", "Value": 2 }
+            ]
+        }
+    ],
+    "SoundAsset": [
+        {
+            "Name": "SE_Forward_01",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_Forward_01" }
+            ]
+        },
+        {
+            "Name": "SE_Back_00",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_Back_00" }
+            ]
+        },
+        {
+            "Name": "SE_Decide_16_04_00",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_Decide_16_04_00" }
+            ]
+        },
+        {
+            "Name": "SE_EnterMenu_09_06_02_01_short",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_EnterMenu_09_06_02_01_short" }
+            ]
+        },
+        {
+            "Name": "SE_ReturnToClock_04",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_ReturnToClock_04" }
+            ]
+        },
+        {
+            "Name": "SE_SelectSlide_01",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_SelectSlide_01" }
+            ]
+        },
+        {
+            "Name": "SE_Select_00",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_Select_00" }
+            ]
+        },
+        {
+            "Name": "SE_InvalidSelect_03",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_InvalidSelect_03" }
+            ]
+        },
+        {
+            "Name": "SE_SettingComplete_08_01_01",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_SettingComplete_08_01_01" }
+            ]
+        },
+        {
+            "Name": "Nice",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "themes/tpl/common/se/Nice" }
+            ]
+        },
+        {
+            "Name": "SE_NetworkError_03",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_NetworkError_03" }
+            ]
+        },
+        {
+            "Name": "SE_NetworkTesting_01",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_NetworkTesting_01" }
+            ]
+        },
+        {
+            "Name": "SE_NetworkConnected_00",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_NetworkConnected_00" }
+            ]
+        },
+        {
+            "Name": "SE_OpenBox_01",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_OpenBox_01" }
+            ]
+        },
+        {
+            "Name": "SE_GetNewAlarm_01",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_GetNewAlarm_01" }
+            ]
+        },
+        {
+            "Name": "SE_OpenNoticeLog_01_03",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_OpenNoticeLog_01_03" }
+            ]
+        },
+        {
+            "Name": "SE_OpenNotice_01_01",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_OpenNotice_01_01" }
+            ]
+        },
+        {
+            "Name": "SE_TutorialPeriod_01",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_TutorialPeriod_01" }
+            ]
+        },
+        {
+            "Name": "SE_TutorialComplete_02",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_TutorialComplete_02" }
+            ]
+        },
+        {
+            "Name": "Aww",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "themes/tpl/common/se/Aww" }
+            ]
+        },
+        {
+            "Name": "SE_EnvChkCountStart_00",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_EnvChkCountStart_00" }
+            ]
+        },
+        {
+            "Name": "SE_EnvChkCountSecond_00",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_EnvChkCountSecond_00" }
+            ]
+        },
+        {
+            "Name": "SE_EnvChkCountLastThree_00",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_EnvChkCountLastThree_00" }
+            ]
+        },
+        {
+            "Name": "SE_EnvChkStart_00",
+            "Properties": [
+                { "DataType": "String", "Name": "FileName", "Value": "common/se/SE_EnvChkStart_00" }
+            ]
+        }
+    ]
+}

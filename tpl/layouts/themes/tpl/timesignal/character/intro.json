@@ -1,0 +1,56 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ 0, 35, 139, 110],
+            "Depth": 0,
+            "Height": 181,
+            "Name": "intro_00",
+            "Position": [ 0, 0 ],
+            "ResourcePath": "themes/tpl/images/timesignal/character/intro/intro_00.bmp",
+            "Type": "Rectangle",
+            "Width": 95
+        },
+        {
+            "Crop": [ 0, 35, 139, 110],
+            "Depth": 1,
+            "Height": 181,
+            "Name": "intro_01",
+            "Position": [ 0, 0 ],
+            "ResourcePath": "themes/tpl/images/timesignal/character/intro/intro_01.bmp",
+            "Type": "Rectangle",
+            "Width": 95
+        },
+        {
+            "Crop": [ 0, 35, 139, 110],
+            "Depth": 2,
+            "Height": 181,
+            "Name": "intro_02",
+            "Position": [ 0, 0 ],
+            "ResourcePath": "themes/tpl/images/timesignal/character/intro/intro_02.bmp",
+            "Type": "Rectangle",
+            "Width": 95
+        },
+        {
+            "Crop": [ 0, 35, 139, 110],
+            "Depth": 3,
+            "Height": 181,
+            "Name": "intro_03",
+            "Position": [ 0, 0 ],
+            "ResourcePath": "themes/tpl/images/timesignal/character/intro/intro_03.bmp",
+            "Type": "Rectangle",
+            "Width": 95
+        },
+        {
+            "Crop": [ 123, 35, 139, 133],
+            "Depth": 4,
+            "Height": 58,
+            "Name": "intro_04",
+            "Position": [ 0, 0 ],
+            "ResourcePath": "themes/tpl/images/timesignal/character/intro/intro_04.bmp",
+            "Type": "Rectangle",
+            "Width": 72
+        }
+    ],
+    "LayoutName": "themes/tpl/timesignal/character/intro",
+    "ToolVersion": 700
+}

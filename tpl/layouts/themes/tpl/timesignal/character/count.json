@@ -1,0 +1,26 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ 121, 35, 79, 135],
+            "Depth": 0,
+            "Height": 120,
+            "Name": "count_00",
+            "Position": [ 0, 0 ],
+            "ResourcePath": "themes/tpl/images/timesignal/character/count/count_00.bmp",
+            "Type": "Rectangle",
+            "Width": 70
+        },
+        {
+            "Crop": [ 121, 35, 121, 135],
+            "Depth": 1,
+            "Height": 78,
+            "Name": "count_01",
+            "Position": [ 0, 0 ],
+            "ResourcePath": "themes/tpl/images/timesignal/character/count/count_01.bmp",
+            "Type": "Rectangle",
+            "Width": 70
+        }
+    ],
+    "LayoutName": "themes/tpl/timesignal/character/count",
+    "ToolVersion": 700
+}

@@ -1,0 +1,80 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ 2, 2, 1, 6 ],
+            "Depth": 0,
+            "Height": 284,
+            "Name": "TitleHeader",
+            "Position": [ 18, 184 ],
+            "ResourcePath": "themes/tpl/images/alarmset/header/TitleHeader.bmp",
+            "Type": "BooleanGroup",
+            "Width": 56
+        },
+        {
+            "Crop": [ 1, 10, 214, 20 ],
+            "Depth": 1,
+            "FontColor": { "A": 255, "B": 255, "G": 255, "R": 255 },
+            "FontSize": 20,
+            "Height": 5,
+            "LayoutBox": [ 220, 34 ],
+            "LineSpacing": 0,
+            "Name": "Text",
+            "Position": [ 63, 216 ],
+            "ResourcePath": null,
+            "Text": ".",
+            "TextAlign": "Left",
+            "TextBaseY": 216,
+            "Type": "Text",
+            "Width": 4
+        },
+        {
+            "Crop": [ 37, 0, 0, 0 ],
+            "Depth": 2,
+            "Height": 47,
+            "Name": "FadeRight",
+            "Position": [ 273, 206 ],
+            "ResourcePath": "themes/tpl/images/alarmset/header/FadeRight.bmp",
+            "Type": "Group",
+            "Width": 34
+        },
+        {
+            "Crop": [ 0, 0, 31, 0 ],
+            "Depth": 3,
+            "Height": 63,
+            "Name": "FadeLeft",
+            "Position": [ 0, 206 ],
+            "ResourcePath": "themes/tpl/images/alarmset/header/FadeLeft.bmp",
+            "Type": "Group",
+            "Width": 34
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 4,
+            "Height": 26,
+            "Name": "NumberBg",
+            "Position": [ 29, 210 ],
+            "ResourcePath": "themes/tpl/images/alarmset/header/NumberBg.bmp",
+            "Type": "Group",
+            "Width": 26
+        },
+        {
+            "Crop": [ 3, 5, 4, 8 ],
+            "Depth": 5,
+            "FontColor": { "A": 255, "B": 0, "G": 0, "R": 0 },
+            "FontSize": 20,
+            "Height": 7,
+            "LayoutBox": [ 14, 29 ],
+            "LineSpacing": 0,
+            "Name": "Number",
+            "Position": [ 37, 215 ],
+            "ResourcePath": null,
+            "Text": "1",
+            "TextAlign": "Center",
+            "TextBaseY": 215,
+            "Type": "Text",
+            "Width": 16
+        }
+    ],
+    "LayoutName": "themes/tpl/alarmset/header",
+    "ToolVersion": 700
+}

@@ -1,0 +1,16 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ -4, 1, 0, 0 ],
+            "Depth": 0,
+            "Height": 72,
+            "Name": "look_L_00",
+            "Position": [ 0, 0 ],
+            "ResourcePath": "themes/tpl/images/visualize/character/look_l/look_L_00.bmp",
+            "Type": "Rectangle",
+            "Width": 72
+        }
+    ],
+    "LayoutName": "themes/tpl/visualize/character/look_l",
+    "ToolVersion": 700
+}

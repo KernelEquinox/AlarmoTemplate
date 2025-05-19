@@ -1,0 +1,16 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ 2, 12, 2, 6 ],
+            "Depth": 0,
+            "Height": 254,
+            "Name": "グループ 13659",
+            "Position": [ 33, 0 ],
+            "ResourcePath": "themes/tpl/images/snooze/hurryup/06.bmp",
+            "Type": "Group",
+            "Width": 240
+        }
+    ],
+    "LayoutName": "themes/tpl/snooze/hurryup/06",
+    "ToolVersion": 700
+}

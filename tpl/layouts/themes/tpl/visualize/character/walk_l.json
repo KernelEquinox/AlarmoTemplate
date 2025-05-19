@@ -1,0 +1,26 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 0,
+            "Height": 69,
+            "Name": "walk_L_00",
+            "Position": [ 0, 0 ],
+            "ResourcePath": "themes/tpl/images/visualize/character/walk_l/walk_L_00.bmp",
+            "Type": "Rectangle",
+            "Width": 67
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 0,
+            "Height": 68,
+            "Name": "walk_L_01",
+            "Position": [ 0, 0 ],
+            "ResourcePath": "themes/tpl/images/visualize/character/walk_l/walk_L_01.bmp",
+            "Type": "Rectangle",
+            "Width": 75
+        }
+    ],
+    "LayoutName": "themes/tpl/visualize/character/walk_l",
+    "ToolVersion": 700
+}

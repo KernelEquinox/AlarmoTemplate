@@ -1,0 +1,36 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 0,
+            "Height": 320,
+            "Name": "DialogBackground",
+            "Position": [ 0, 27 ],
+            "ResourcePath": "themes/tpl/images/dialog/background/DialogBackground.bmp",
+            "Type": "SymbolInstance",
+            "Width": 190
+        },
+        {
+            "Crop": [ 9, 1, 9, 1 ],
+            "Depth": 1,
+            "Height": 320,
+            "Name": "DialogHeader",
+            "Position": [ 0, 163 ],
+            "ResourcePath": "themes/tpl/images/dialog/background/DialogHeader.bmp",
+            "Type": "SymbolInstance",
+            "Width": 59
+        },
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 2,
+            "Height": 240,
+            "Name": "ConfirmBackground",
+            "Position": [ 40, 245 ],
+            "ResourcePath": "themes/tpl/images/dialog/background/ConfirmBackground.bmp",
+            "Type": "Group",
+            "Width": 240
+        }
+    ],
+    "LayoutName": "themes/tpl/dialog_background",
+    "ToolVersion": 700
+}

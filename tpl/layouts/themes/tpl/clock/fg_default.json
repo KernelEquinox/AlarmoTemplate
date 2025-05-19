@@ -1,0 +1,16 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ 0, 0, 0, 0 ],
+            "Depth": 0,
+            "Height": 260,
+            "Name": "fg_default",
+            "Position": [ 30, 204 ],
+            "ResourcePath": "themes/tpl/images/clock/fg_default.bmp",
+            "Type": "Path",
+            "Width": 5
+        }
+    ],
+    "LayoutName": "themes/tpl/clock/fg_default",
+    "ToolVersion": 700
+}

@@ -1,0 +1,16 @@
+{
+    "ImageList": [
+        {
+            "Crop": [ 6, 13, 8, 75 ],
+            "Depth": 0,
+            "Height": 50,
+            "Name": "Chara",
+            "Position": [ 117, 69 ],
+            "ResourcePath": "themes/tpl/images/record/Chara.bmp",
+            "Type": "Rectangle",
+            "Width": 53
+        }
+    ],
+    "LayoutName": "themes/tpl/record/chara",
+    "ToolVersion": 700
+}
